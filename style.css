@@ -1,0 +1,186 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.nav{
+    height: 100px;
+    weight:100%;
+    border: 1px solid black;
+    background-color:#4267B2;
+}
+#main{
+    color:white;
+    padding-left:200px;
+    padding-top:30px;
+    font-size:37px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight:bold;
+}
+.login{
+
+    padding-left:200px;
+    padding-top:40px;
+}
+#btn{
+    width:45px;
+    height:20px;
+    background-color:rgb(109, 137, 194);
+}
+/* Pen-specific styles */
+* {
+    box-sizing: border-box;
+  }
+  body {
+    
+  }
+  
+  section {
+    color:white;
+    NNNNext-align: center;
+  }
+  
+  div {
+    height:700px;
+  }
+  
+  h1 {
+    color:black;
+    font-weight: bold;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 50px;
+  }
+  
+  /* Pattern styles */
+  .container {
+    display: table;
+    width: 100%;
+  }
+  
+  .left-half {
+    background-color:rgb(230, 238, 255);
+    position: absolute;
+    left: 0px;
+    width: 60%;
+  }
+  #prephot{
+      color:#4267B2;
+      padding-left:200px;
+      padding-top:40px;
+    }
+    #img{
+        padding-left: 200px;
+        }
+  
+  .right-half {
+    background-color:rgb(230, 238, 255);
+    position: absolute;
+    right: 0px;
+    width: 40%;
+  }
+  #h21{
+      color:black;
+      font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      font-weight: inherit;
+
+  }
+  #head{
+      padding-top:20px;
+  }
+  .footer{
+     padding-top:750px;
+      background-color:white;
+      height:100px;
+      width:100%;
+  }
+  /*comment*/
+  /* Pattern styles */
+  .containern {
+    display: table;
+    width: 100%;
+  }
+  
+  .left-halfn {
+    background-color:4267B2;
+    position: absolute;
+    left: 0px;
+    width: 50%;
+  }
+  
+  .right-halfn {
+    background-color:#4267B2;
+    position: absolute;
+    right: 0px;
+    width: 50%;
+  }
+  /*comment*/
+  .containerm {
+    display: table;
+    width: 100%;
+  }
+  
+  .left-halfm {
+  
+    position: absolute;
+    left: 50px;
+    width: 50%;
+  }
+  
+  .right-halfm {
+    
+    position: absolute;
+    right: 50px;
+    width: 50%;
+  }
+#Forgot{
+    color:rgb(189, 179, 219);
+}
+#bd{
+    color:rgb(167, 166, 166);
+    font-size: 18px;
+}
+ul{
+    list-style-type: none;
+}
+li{
+    float:left;
+    color: black;
+    font-size: 18px;
+    padding:10px;
+
+}
+p{
+    color:grey;
+    font-size:12px;
+    padding-top: 10px;
+}
+#btns{
+    width:120px;
+    height:40px;
+    background-color: rgb(16, 92, 20);
+    border-radius:10px;
+    color: white;
+}
+a{
+    text-decoration: none;
+}
+#su{
+    padding:10px;
+    margin:10px;
+    border-radius:10px;
+    color:grey;
+    font-size:15px;
+}
+h4{
+    color:grey;
+}
+#dn{
+    text-align:center;
+}
+#sue{
+    padding:10px;
+    margin:10px;
+    border-radius:10px;
+    width:450px;
+    color:grey;
+    font-size:20px;
+}
