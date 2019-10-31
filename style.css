@@ -184,3 +184,6 @@ h4{
     color:grey;
     font-size:20px;
 }
+table tr th{
+  border: 1px solid black;
+}
